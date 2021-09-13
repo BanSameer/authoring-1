@@ -8,4 +8,5 @@ repo with images
 ## - [ ] Emojis
 ## - [ ] Tables
 - [githubhelp](https://support.github.com/)
-https://github.com/Laurazig/authoring/tree/main/Pictures
+- [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
+- ![image](https://github.com/Laurazig/authoring/tree/main/Pictures/me.jpg)
