@@ -10,3 +10,4 @@ repo with images
 - [githubhelp](https://support.github.com/)
 - [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
 - ![imageofmee](https://github.com/Laurazig/authoring/blob/main/Pictures/me.jpeg)
+- :sunglasses:
