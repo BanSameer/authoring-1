@@ -19,7 +19,7 @@ repo with images
 - [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
 
 - ## <a name="Image">Image</a> 
-- ![imageofmee](https://github.com/Laurazig/authoring/blob/main/Pictures/me.jpeg)
+- ![imageofmee](https://github.com/Laurazig/authoring/blob/main/Pictures/me.jpeg )
 
 - ## <a name="Emoji">Emoji</a> 
 - :sunglasses:
