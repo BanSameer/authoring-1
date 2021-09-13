@@ -9,4 +9,4 @@ repo with images
 ## - [ ] Tables
 - [githubhelp](https://support.github.com/)
 - [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
-- ![image](https://github.com/Laurazig/authoring/tree/main/Pictures/me.jpg)
+- ![image](https://github.com/Laurazig/authoring/tree/main/Pictures/me.jpeg)
