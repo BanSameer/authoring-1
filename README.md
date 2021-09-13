@@ -2,7 +2,7 @@
 repo with images 
 # github flavoursed markdown
 ## checkboxes
-- [External link](## External_Link)<a id="id1"></a> . 
+- [External link](## External_Link) <a id="id1"></a> . 
 - [ ] 
 - [ ] Internal link
 - [ ] Images
