@@ -15,4 +15,4 @@ repo with images
 | Names | class |
 |:-----:|------:|
 |   x   |    x  |
-|   x   |    x  |
+|     |     |
