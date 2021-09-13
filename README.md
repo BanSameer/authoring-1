@@ -8,3 +8,4 @@ repo with images
 ## - [ ] Emojis
 ## - [ ] Tables
 - [githubhelp](https://support.github.com/)
+- main/authoring/pictures
