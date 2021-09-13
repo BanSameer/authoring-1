@@ -7,4 +7,4 @@ repo with images
 ## - [ ] Images
 ## - [ ] Emojis
 ## - [ ] Tables
-- [githubhelp] (https://support.github.com/)
+- [githubhelp](https://support.github.com/)
