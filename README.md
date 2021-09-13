@@ -2,7 +2,7 @@
 repo with images 
 # github flavoursed markdown
 ## checkboxes
-[External link](## - [ ] External link )
+[External link]([ ] External link )
 - [ ] Internal link
 - [ ] Images
 - [ ] Emojis
