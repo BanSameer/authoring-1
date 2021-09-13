@@ -9,7 +9,7 @@ repo with images
 
 
 ## Table
-- [ ] [Table](#table]
+- [ ] [Table](#Table]
 
 
 - ## <a name="External_Link">External link</a> 
