@@ -13,5 +13,5 @@ repo with images
 - :sunglasses:
 - | Names | class |
 - |:-----:|------:|
-- |       |       |
-- |       |       |
+- |   x   |    x  |
+- |   x   |    x  |
