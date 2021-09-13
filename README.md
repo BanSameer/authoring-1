@@ -2,14 +2,14 @@
 repo with images 
 # github flavoursed markdown
 ## checkboxes
-- [External link](## External_Link) <a id="External link"></a> . 
+- [External link](## External-Link) <a id="External link"></a> . 
 - [ ] 
 - [ ] Internal link
 - [ ] Images
 - [ ] Emojis
 ## - [ ] Tables
 
-- ## External_Link
+- ## External Link
 - [ ] [githubhelp](https://support.github.com/)
 
 - [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
