@@ -3,6 +3,7 @@ repo with images
 # github flavoursed markdown
 ## checkboxes
 - [External link](## External-Link) <a id="External link"></a> . 
+- ## <a name="External_Link">External link</a> 
 - [ ] 
 - [ ] Internal link
 - [ ] Images
