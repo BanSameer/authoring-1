@@ -11,7 +11,8 @@ repo with images
 - [link to photo folder](https://github.com/Laurazig/authoring/tree/main/Pictures)
 - ![imageofmee](https://github.com/Laurazig/authoring/blob/main/Pictures/me.jpeg)
 - :sunglasses:
-- | Names | class |
-- |:-----:|------:|
-- |   x   |    x  |
-- |   x   |    x  |
+- 
+| Names | class |
+|:-----:|------:|
+|   x   |    x  |
+|   x   |    x  |
