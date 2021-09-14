@@ -2,10 +2,10 @@
 repo with images 
 # github flavoursed markdown
 ## checkboxes
-- [ ] [External link](#External_Link) 
-- [ ] [Internal link](#Internal_Link)
-- [ ] [Image](#Images)
-- [ ] [Emoji](#Emoji)
+- [x] [External link](#External_Link) 
+- [x] [Internal link](#Internal_Link)
+- [x] [Image](#Images)
+- [x] [Emoji](#Emoji)
 
 
 ## Table
